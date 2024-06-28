@@ -1,7 +1,7 @@
 +++
 title="Zapad 2021: Spotlight on Belarus"
 date=2021-09-30
-image="https://jamestown.org/wp-content/uploads/2021/09/Zapad-2021.jpeg"
+image="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZapad_2021_tank_shooting_%2528Obuz-Lesnovsky%2529.jpg&psig=AOvVaw2mSHJsJCNo17RMfjovHk3t&ust=1719640521181000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODYs6fO_YYDFQAAAAAdAAAAABAE"
 authors = ["Matthew Thomas"]
 categories = ["Security"]
 tags = ["NATO"]
@@ -23,4 +23,4 @@ What then, does all this mean? Does Russia seek to seal off the Suwałki Gap and
 
 Ultimately, one key message is clear. Recent developments regarding force integration and interoperability, as well as modernization of the Belarusian air force and the placement of key Russian air defense systems at Hrodna are clear indicators that Russia seeks to establish the capacity to seal off the Suwałki Gap and take offensive action on the Baltics if it deems necessary. This capacity could serve a dual purpose: first, to deter perceived NATO aggression, and second, to eliminate targets in the Baltics and Poland in a first strike escalation to coerce NATO to capitulation. As a result, NATO must then prepare for such a scenario, understanding that whether Russia intends to use its new capacity or not, it does intend to be able to. If it does, the consequences for NATO will be grave, and for the Baltics, fatal.  
 
-Cover Photo: Service members bearing the flags of Russia, Belarus, and Kazakhstan marching during ceremonies at Obuz-Lesnovsky in Western Belarus. [Credit](https://www.reuters.com/world/russia-belarus-begin-active-phase-huge-war-games-2021-09-10/)
+Cover Photo: Tank exercises during Zapad 2021 in Belarus. Creative Commons. [Credit](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZapad_2021_tank_shooting_%2528Obuz-Lesnovsky%2529.jpg&psig=AOvVaw2mSHJsJCNo17RMfjovHk3t&ust=1719640521181000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODYs6fO_YYDFQAAAAAdAAAAABAE)
