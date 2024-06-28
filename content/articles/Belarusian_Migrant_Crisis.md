@@ -1,7 +1,7 @@
 +++
 title="The Belarusian Migrant Crisis in Broader Geopolitical Context"
 date=2021-07-29
-image="https://www.lrt.lt/img/2020/10/08/736712-933756-756x425.jpg"
+image="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALietuvos-Baltarusijos_siena_-_panoramio.jpg&psig=AOvVaw2PH0yWJKHIVxn4wC3Fq5BD&ust=1719640772646000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNirtaTP_YYDFQAAAAAdAAAAABAE"
 authors = ["Matthew Thomas"]
 categories = ["Policy"]
 tags = ["NATO","EU"]
@@ -25,4 +25,4 @@ Finally, the third option observes an attitude of complacency, if not outright i
 
 This brings us back to Belarus. The Lukashenka regime is undoubtedly now rushing headlong into the Kremlin’s fold, and as such, should be viewed in that broader context. Conflict with Belarus ultimately will mean conflict with Russia, and vice-versa. Therefore, the migrant crisis Lithuania faces today is not just the petty vengefulness of a tyrant, nor just a temporary headache for Vilnius to sort out, but a key litmus test for Western leadership. As such, it is important to remember the bigger picture. Strategic thinking at all levels will be necessary to keep focused and improving in order to secure a future for freedom and sovereignty in the Baltics. 
 
-Cover Photo: The Belarusian-Lithuanian border. [Credit](https://www.lrt.lt/en/news-in-english/19/1423251/belarus-officers-facilitate-irregular-migration-to-lithuania-minister)
+Cover Photo: The Belarusian-Lithuanian border. Creative Commons. [Credit](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALietuvos-Baltarusijos_siena_-_panoramio.jpg&psig=AOvVaw2PH0yWJKHIVxn4wC3Fq5BD&ust=1719640772646000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNirtaTP_YYDFQAAAAAdAAAAABAE)
